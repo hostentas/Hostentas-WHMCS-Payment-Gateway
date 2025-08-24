@@ -112,7 +112,7 @@ See the [LICENSE.txt](LICENSE.txt) file for full license text.
 
 ## 🧾 Changelog
 
-### v1.0.0 – 04 August 2025
+### v1.0.0 – 22 August 2025
 
 - Initial release  
 - Hostentas Pay WHMCS integration  
